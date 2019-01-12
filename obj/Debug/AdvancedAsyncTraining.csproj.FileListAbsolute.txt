@@ -1,0 +1,15 @@
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\bin\Debug\AdvancedAsyncTraining.exe.config
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\bin\Debug\AdvancedAsyncTraining.exe
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\bin\Debug\AdvancedAsyncTraining.pdb
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.csprojAssemblyReference.cache
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\MainWindow.g.cs
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\App.g.cs
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining_MarkupCompile.cache
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining_MarkupCompile.lref
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\MainWindow.baml
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.g.resources
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.Properties.Resources.resources
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.csproj.GenerateResource.cache
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.csproj.CoreCompileInputs.cache
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.exe
+C:\Users\Duch003\source\repos\AdvancedAsyncTraining\AdvancedAsyncTraining\obj\Debug\AdvancedAsyncTraining.pdb
